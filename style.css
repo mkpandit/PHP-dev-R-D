@@ -1,1 +1,11 @@
 /* CSS Style Sheet */
+
+body {
+    font-size: 16px;
+    color: #333;
+}
+
+body a {
+    color: #3399ff;
+}
+
