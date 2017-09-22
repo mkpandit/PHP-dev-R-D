@@ -3,7 +3,6 @@
 import os, sys, json
 
 if __name__ == "__main__":
-    vm_status = []
     try:
         with open("azurePackages.json") as json_data:
             data = json.load(json_data)
