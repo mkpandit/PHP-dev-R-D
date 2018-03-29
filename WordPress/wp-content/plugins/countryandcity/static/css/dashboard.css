@@ -1,0 +1,25 @@
+/*
+* Custom CSS for the plugin
+*/
+
+div.country-list-container {
+	padding: 1% 1% 1% 0%;
+}
+
+div.country-list {
+	background: #fff;
+	padding: 1%;
+	border-radius: 3px;
+}
+
+div.city-list-container {
+	display: none;
+	padding: 1% 1% 1% 0%;
+}
+
+div.city-list {
+	margin-top: 10px;
+	background: #fff;
+	padding: 1%;
+	border-radius: 3px;
+}

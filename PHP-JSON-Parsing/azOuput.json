@@ -1,0 +1,10 @@
+{
+	"fqdns": "",
+	"id": "/subscriptions/865ee318-9b61-4c3b-a0ce-83b84c976705/resourceGroups/HTResource/providers/Microsoft.Compute/virtualMachines/HTVirtualMachine",
+	"location": "CanadaEast",
+	"macAddress": "00-0D-3A-F4-50-E1",
+	"powerState": "VM running",
+	"privateIpAddress": "10.0.0.4",
+	"publicIpAddress": "52.242.38.7",
+	"resourceGroup": "HTResource"
+}
