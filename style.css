@@ -1,4 +1,6 @@
-/* CSS Style Sheet */
+/**
+* CSS Style Sheet 
+*/
 body {
     font-size: 16px;
     color: #333;
@@ -11,3 +13,7 @@ body a {
 header {
 	margin: 0 0 0 2%;
 }
+
+/**
+* Style sheet ends
+*/
