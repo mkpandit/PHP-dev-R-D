@@ -1,0 +1,17 @@
+body{
+    padding-top:60px;
+}
+.row-margin-top {
+    margin-top: 20px;
+}
+
+/* fix padding under menu after resize */
+@media screen and (max-width: 767px) {
+    body { padding-top: 50px; }
+}
+@media screen and (min-width:768px) and (max-width: 991px) {
+    body { padding-top: 50px; }
+}
+@media screen and (min-width: 992px) {
+    body { padding-top: 50px; }
+}
